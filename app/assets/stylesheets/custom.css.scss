@@ -1,2 +1,22 @@
-@import "bootstrap-mincer";
-@import "bootstrap";
+$navbar-default-bg: black;
+
+#logo {
+  float: left;
+  font-size: 1.7em;
+  color: pink;
+  text-transform: uppercase;
+  letter-spacing: -1px;
+  font-weight: bold;
+}
+
+.center {
+  text-align: center;
+}
+
+.container-fluid {
+  background-color: black;
+}
+
+.collapse navbar-collapse {
+  color: white;
+}
