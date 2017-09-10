@@ -48,6 +48,16 @@
   font-weight: bold;
 }
 
+.article-title {
+  font-weight: bold;
+  font-size: 1.5em;
+}
+
+.article-body {
+  border-top: 1px solid black;
+  padding-top: 15px;
+  padding-bottom: 15px;
+
 .article-actions {
   border-top: 1px solid pink;
   padding-top: 5px;
@@ -55,6 +65,7 @@
 
 .description {
   margin-top: 0;
+
 }
 
 .footer {
